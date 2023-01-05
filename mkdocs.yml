@@ -1,4 +1,5 @@
 site_name: Anacmas
+site_url: https://anacmas.com/
 theme:
   name: material
   palette:
