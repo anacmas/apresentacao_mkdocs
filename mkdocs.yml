@@ -1,1 +1,7 @@
 site_name: Anacmas
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: purple
