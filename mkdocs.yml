@@ -1,5 +1,5 @@
 site_name: Anacmas
-site_url: https://anacmas.github.io/apresentacao/
+site_url: https://anacmas.github.io/apresentacao_mkdocs/
 theme:
   name: material
   palette:
