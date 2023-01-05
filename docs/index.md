@@ -1,17 +1,33 @@
 # Ana Carolina Milos
 
-anacmas@gmail.com | [github.com/anacmas](https://github.com/anacmas)
+anacmas@gmail.com | [Github](https://github.com/anacmas) | [Linkedin](https://www.linkedin.com/in/ana-carolina-milos-17259787/)
 
-### Sobre mim
+## Sobre mim
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+- Estagiária de desenvolvimento na Buser
+- Graduanda em ciência e tecnologia na UNIFESP
+- Busco fazer produtos de alta qualidade e acessíveis a todas as pessoas
 
-## Project layout
+## Experiência
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+#### Estágio Buser (2022 - presente)
+
+- Estágio com foco em programação Fullstack
+
+- Uso de JavaScript, Python, Vue, Vuetify, Django, MySQL
+- Criação de projetos em VueJs e Django
+- Uso de ferramentas como Gitlab, Figma e ClickUp
+
+#### Estágio Rede Globo (06/2013 - 12/2013)
+
+- Estágio nas áreas do globoesporte.com, G1 e departamento de arte
+- Globoesporte.com: manutenção front-end, produção de imagens
+- G1: produção de infográficos e imagens diversas
+
+## Formação
+
+#### Graduação em ciência e tecnologia - UNIFESP (2022 - presente)
+
+#### Bacharel em ciências biomédicas - UNESP (2016 - 2019)
+
+#### Técnico em multimídia (2012 - 2013)
